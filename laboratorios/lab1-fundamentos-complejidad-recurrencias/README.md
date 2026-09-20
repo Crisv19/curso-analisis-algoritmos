@@ -2,7 +2,7 @@
 
 
 
-\*\*Autor:\*\* \[Tu Nombre Completo]  
+\*\*Autor:\*\* \[Cristian Jose Mendez Guzman]  
 
 \*\*Fecha:\*\* Septiembre 2026  
 
@@ -16,9 +16,13 @@
 
 
 
+Para ejecutar los experimentos y regenerar las gráficas desde la carpeta del laboratorio (`laboratorios/lab1-fundamentos-complejidad-recurrencias/`):
+
+
+
 1\. \*\*Activar el entorno virtual\*\* desde la raíz del repositorio:
 
 &#x20;  ```cmd
 
-&#x20;  ..\\venv\\Scripts\\activate
+&#x20;  ..\\..\\venv\\Scripts\\activate
 
