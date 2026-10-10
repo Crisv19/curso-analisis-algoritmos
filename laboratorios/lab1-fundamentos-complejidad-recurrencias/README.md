@@ -65,7 +65,7 @@ Para autorizar el paso a producción me baso en el **peor caso**. En salud no po
 *Análisis:* Las gráficas salieron tal como dice la teoría.  
 - La curva verde (Escenario C) es el peor caso y forma una parábola completa ($n^2/2$).  
 - La curva azul (Escenario A) es el caso promedio; también crece como parábola pero hace más o menos la mitad de operaciones.
-- La curva roja (Escenario B) es el mejor caso y se ve casi plana (lineal $\Omega(n)$). *Insertion Sort* solo es rápido si le das los datos ya ordenados.
+- La curva naranja (Escenario B) es el mejor caso y se ve casi plana (lineal $\Omega(n)$). *Insertion Sort* solo es rápido si le das los datos ya ordenados.
 
 ---
 
