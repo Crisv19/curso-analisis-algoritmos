@@ -1,7 +1,7 @@
 # Laboratorio Evaluativo 01 — Fundamentos, Complejidad y Recurrencias
 
 **Autor:** Cristian Jose Mendez Guzman  
-**Fecha:** Septiembre 2026  
+**Fecha:** Octubre 2026  
 
 ---
 
