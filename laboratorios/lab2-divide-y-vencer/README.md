@@ -30,7 +30,6 @@ Para verificar las soluciones usé `assert` en Python. Evalué casos límite: la
 
 ![Tiempo de Ejecucion vs Tamaño](graficas/tiempo_vs_n.png)
 
-*Nota:* Medí usando `time.perf_counter()`. Para que el profe pueda reproducirlo, fijé los datos con `random.seed(42)` y medí 7 tamaños (desde n=10 hasta n=4000).
 
 ---
 
